@@ -23,6 +23,7 @@ In a nutshell, the descriptive analysis of the study shows that the city has 15 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 o	How is the district summary affected?
+The district summary stats were minimally affected given the large number of students in the dataset.
 
 o	How is the school summary affected?
 
