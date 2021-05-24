@@ -29,12 +29,14 @@ The district summary stats were minimally affected given the large number of stu
 -----------------
 
 
+On the other hand the performance of Thomas Hgh School was affected to a large degree, displacing its rank from the sencond (Figure 3) to the 13th (Figure 4).
 
-
-
+**Figure 3. Position of Thomas High School after removing the 9th grade scores**
+![3-Top-5-high-performing.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/3-Top-5-high-performing.png)
 o	How is the school summary affected?
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 
 o	How does replacing the ninth-grade scores affect the following:
 
