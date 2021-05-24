@@ -29,22 +29,13 @@ The district summary stats were minimally affected given the large number of stu
 -----------------
 
 
-On the other hand the performance of Thomas Hgh School was affected to a large degree, displacing its rank from the sencond (Figure 3) to the 13th (Figure 4).
+On the other hand the performance of Thomas Hgh School was affected to a large degree, displacing its rank from the sencond (Figure 3) to the 8th (Figure 4).
 
 **Figure 3. Position of Thomas High School after removing the 9th grade scores**
 ![3-Top-5-high-performing.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/3-Top-5-high-performing.png)
-o	How is the school summary affected?
-
-o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-o	How does replacing the ninth-grade scores affect the following:
-
-  * Math and reading scores by grade
-  * Scores by school spending
-  * Scores by school size
-  * Scores by school type
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Replacing the scores of the 9th grade from the Thomas High School, minimally changed district summary results but it changed the schools standing to a large degree. 
