@@ -9,9 +9,9 @@ We have been tasked to do the analysis with three objectives:
  •	Explain how PyCitySchools analysis changes after we exclude the incorrect data.
 For the analysis we imported the datasets into Jupyter Notebook version 6.3.1 using Python Panadas. 
 
-In a nutshell, the descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428 (Table 1).
+In a nutshell, the descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428 (Figure 1 and 2).
 
-**Figure 1: The results of descritive analysis**
+**Figure 1. The results of descritive analysis**
 
 -------
 ![1-Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-Descriptive.png)
@@ -22,8 +22,17 @@ In a nutshell, the descriptive analysis of the study shows that the city has 15 
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
+
+**Figure 2. The results of the first descriptive analysis **
+
+-----------------
+![1-b-Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-b-Descriptive.png)
+-----------------
+
 o	How is the district summary affected?
-The district summary stats were minimally affected given the large number of students in the dataset.
+The district summary stats were minimally affected given the large number of students in the dataset (figures 1 and 2)
+
+
 
 o	How is the school summary affected?
 
