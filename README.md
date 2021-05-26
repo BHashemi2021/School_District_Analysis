@@ -83,12 +83,12 @@ The Thomas High School is in the medium-sized (1000-2000) educational facility b
 
 ## Summary
 
-Replacing the scores of the 9th graders from Thomas High School, minimally changed district summary results.
+1. Replacing the scores of the 9th graders from Thomas High School, minimally changed district summary results.
 
-Replacing the scores of 9th graders changed the standing of the Thomas High School from second to eighth. 
+2. Replacing the scores of 9th graders changed the standing of the Thomas High School from second to eighth. 
 
-Removing the math and reading scores of 9th graders of Thomas High School, changed the passing mark for those two subjects.
+3. Removing the math and reading scores of 9th graders of Thomas High School, changed the passing mark for those two subjects.
 
-Removing the math and reading scores of 9th graders of the school changed the percentage of passing marks for the two subjects.
+4. Removing the math and reading scores of 9th graders of the school changed the percentage of passing marks for the two subjects.
 
 
