@@ -5,9 +5,11 @@
 The PyCitySchools analysis was performed on two separate datasets in csv format provided by School District authority, Maria. One of the datasets included data abut 15 schools of the city and the other was data on 39,170 students. The first analysis was submitted upon completion but there is another call for a re-run of the analysis and exclusion of parts of the data as there has been concerns about academic misconduct regarding the 9th grade in Thomas High School. 
 
 We have been tasked to do the analysis with three objectives: 
- •	Filter DataFrames using logical operators.
- •	Replace the incorrect values with NaN.
- •	Explain how PyCitySchools analysis changes after we exclude the incorrect data.
+
+ *	Filter DataFrames using logical operators.
+ *	Replace the incorrect values with NaN.
+ *	Explain how PyCitySchools analysis changes after we exclude the incorrect data.
+ 
  
 For the analysis we imported the datasets into Jupyter Notebook version 6.3.1 using Python Panadas. 
 
