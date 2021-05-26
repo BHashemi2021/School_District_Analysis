@@ -17,17 +17,17 @@ For the analysis we imported the datasets into Jupyter Notebook version 6.3.1 us
 
 The descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428. The district summary stats were *minimally* affected upon removing the 9th graders' scores for math and reading from Thomas High School, given the large volume of students in the dataset (Figures 1 and 2).
 
-**Figure 1. District Summary before data clean up**
+**Figure 1. District Summary after data clean up**
 
 -------
-![]()
+![1-(district summary) Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-(district%20summary)%20Descriptive.png)
 
 ------
 
-**Figure 2: District Summary after data clean up**
+**Figure 2: District Summary before data clean up**
 
 ------------------
-![]
+![2-(district summary) Descriptive](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/2-(district%20summary)%20Descriptive.png)
 
 ------------------
 
@@ -43,7 +43,7 @@ Replacing the ninth graders’ math and reading scores with NaN (managed missing
 **Figure 3: Comparing Thomas High School's rank before and after data clean up.
 
 --------------------
-![] comparative image
+![3-comparative-school-summary-(percentage).png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/3-comparative-school-summary-(percentage).png)
 
 --------------------
 
@@ -62,7 +62,7 @@ Thomas High School is in $630-645 spending bucket, and budget per student have n
 **Figure 4: Spending per student and school budget
 
 -----------------
-![]  spending image
+![4-spendingbudget.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/4-spendingbudget.png) 
 
 -----------------
 
