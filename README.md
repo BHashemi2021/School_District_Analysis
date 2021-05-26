@@ -2,21 +2,20 @@
 
 ## Overview of the school district analysis 
 
-The PyCitySchools analysis was performed on two separate datasets in csv format provided by School District authority, Maria. One of the datasets included data abut 15 schools of the city and the other was data on 39,170 students going to those schools. The first analysis was submitted upon completion but there is another call for a re-run of the analysis and exclusion of parts of the data as there has been concerns about academic misconduct regarding the 9th grade in Thomas High School. 
+The PyCitySchools analysis was performed on two separate datasets in csv format provided by School District authority, Maria. One of the datasets included data abut 15 schools of the city and the other was data on 39,170 students. The first analysis was submitted upon completion but there is another call for a re-run of the analysis and exclusion of parts of the data as there has been concerns about academic misconduct regarding the 9th grade in Thomas High School. 
+
 We have been tasked to do the analysis with three objectives: 
  •	Filter DataFrames using logical operators.
  •	Replace the incorrect values with NaN.
  •	Explain how PyCitySchools analysis changes after we exclude the incorrect data.
+ 
 For the analysis we imported the datasets into Jupyter Notebook version 6.3.1 using Python Panadas. 
-
-In a nutshell, the descriptive analysis of the study shows that the city has 15 schools (7 district and 8 charter types) and 39, 170 students and a total budget of $24, 649,428.
-
 
 ## Results
 
 #### District Summary before and after data clean up
 
-The descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428. The district summary stats were minimally affected upon removing the 9th graders' scores for math and reading from Thomas High School, given the large number of students in the dataset (Figures 1 and 2).
+The descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428. The district summary stats were *minimally* affected upon removing the 9th graders' scores for math and reading from Thomas High School, given the large volume of students in the dataset (Figures 1 and 2).
 
 **Figure 1. District Summary before data clean up**
 
