@@ -16,16 +16,7 @@ In a nutshell, the descriptive analysis of the study shows that the city has 15 
 
 #### District Summary before and after data clean up
 
-The district summary stats were minimally affected given the large number of students in the dataset (Figures 1 and 2).
-
-**Figure 1: District Summary before data clean up**
-=======
-In a nutshell, the descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428 (Figure 1 and 2).
-
-
-## Results
-
-The district summary stats were minimally affected given the large number of students in the dataset (Figures 1 and 2)
+The descriptive analysis of the study shows that the city has 15 schools (seven District type and 8 charter) and 39, 170 students and a total budget of $24, 649,428. The district summary stats were minimally affected upon removing the 9th graders' scores for math and reading from Thomas High School, given the large number of students in the dataset (Figures 1 and 2).
 
 **Figure 1. District Summary before data clean up**
 
@@ -41,25 +32,24 @@ The district summary stats were minimally affected given the large number of stu
 
 ------------------
 
-
 #### School summary before and after data clean up
 
-While the district summary underwent very small changes due to the large number of students in the dataset.
+While the district summary underwent very small changes due to the large number of students in the dataset, the effects of removing 9th greaders' scores from the dtaset, changed the schools standing alongside t=lowring its passing scores for both subjects, their percentages and the overall passing score percentage.
 
 
 #### The overall Effects of replacing the ninth graders’ math and reading scores on Thomas High School’s performance vs other schools
 
-Replacing the ninth graders’ math and reading scores with NaN, affected Thomas High School’s performance relative to the other schools, displacing its rank from second to eighth as its overall passing score decreased from 91% to 65% (Figure 3).  
+Replacing the ninth graders’ math and reading scores with NaN (managed missing data), affected Thomas High School’s performance relative to the other schools, displacing its rank from second to eighth as its overall passing score decreased from 91% to 65% (Figure 3).  
 
 **Figure 3: Comparing Thomas High School's rank before and after data clean up.
 
 --------------------
-![] #####comparative image
+![] comparative image
 
 --------------------
 
 
-####	Effects of replacing the ninth-grade scores in more detail
+### Effects of replacing the ninth-grade scores in more details
 
 ##### Math and reading scores by grade
 
@@ -73,7 +63,7 @@ Thomas High School is in $630-645 spending bucket, and budget per student have n
 **Figure 4: Spending per student and school budget
 
 -----------------
-![]  ###spending image
+![]  spending image
 
 -----------------
 
