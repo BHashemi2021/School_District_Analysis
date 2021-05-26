@@ -22,7 +22,7 @@ The descriptive analysis of the study shows that the city has 15 schools (seven 
 **Figure 1. District Summary after data clean up.**
 
 -------
-![1-(district summary) Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-(district%20summary)%20Descriptive.png)
+![1-Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-Descriptive.png)
 
 ------
 
@@ -31,7 +31,7 @@ The descriptive analysis of the study shows that the city has 15 schools (seven 
 **Figure 2: District Summary before data clean up.**
 
 ------------------
-![2-(district summary) Descriptive](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/2-(district%20summary)%20Descriptive.png)
+![1-b-Descriptive.png](https://github.com/BHashemi2021/School_District_Analysis/blob/main/Resources/1-b-Descriptive.png)
 
 ------------------
 
