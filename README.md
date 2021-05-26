@@ -44,6 +44,7 @@ While the district summary underwent very small changes due to the large number 
 
 Replacing the ninth graders’ math and reading scores with NaN (managed missing data), affected Thomas High School’s performance relative to the other schools, displacing its rank from second to eighth as its overall passing score decreased from 91% to 65% (Figure 3).  
 
+
 **Figure 3: Comparing Thomas High School's rank before and after data clean up.
 
 --------------------
