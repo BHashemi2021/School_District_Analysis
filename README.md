@@ -26,6 +26,8 @@ The descriptive analysis of the study shows that the city has 15 schools (seven 
 
 ------
 
+
+
 **Figure 2: District Summary before data clean up**
 
 ------------------
